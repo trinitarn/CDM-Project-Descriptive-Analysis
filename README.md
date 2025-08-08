@@ -14,7 +14,7 @@ Segment countries based on IRR (Internal Rate of Return), capital investment, an
 
 Identify which projects are most effective and scalable in reducing emissions, especially in Least Developed Countries (LDCs).
 
-## 🗂️ Dataset Structure (Source: Kaggle / UNFCCC)
+## 🗂️ Dataset Structure (Source: UNFCCC)
 CDM Activities: Main table containing registration details, crediting periods, methodologies, financials (investment, IRR), and CER projections.
 
 Issuances: Records of actual CER issuance events linked to each project.
