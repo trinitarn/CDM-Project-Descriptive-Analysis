@@ -27,41 +27,30 @@ Country Codes: Reference for ISO2 and country names.
 
 ## 📊 Power BI Dashboard Insights
 ### 🌍 Geographic & Temporal Trends
-China dominates CDM capacity in absolute terms. China’s total renewable capacity (1,453,701 MW) accounts for the largest share of CDM-related capacity and represents 171,378.80 MW installed through CDM projects (11.79% share of China’s total capacity). When included, China heavily skews world totals: World (with China) total = 2,225,066 MW with 323,514.85 MW installed through CDM (14.54% share). 
-
-When China is excluded, other countries show higher relative CDM penetration. World (without China) shows 771,365 MW total and 152,136.06 MW CDM-installed (19.72% share) — implying CDM’s relative importance is higher outside China.
+![State Performance](https://github.com/trinitarn/CDM-Project-Descriptive-Analysis/blob/main/Screenshot%20State.png)
+China dominates CDM capacity in absolute terms. China’s total renewable capacity (1,453,701 MW) accounts for the largest share of CDM-related capacity and represents 171,378.80 MW installed through CDM projects (11.79% share of China’s total capacity). 
 
 Asia (without China): total 389,559 MW with 81,758.21 MW CDM-installed (20.99% share) — much higher relative contribution than China itself. 
 
 Africa shows notably strong relative shares in some subregions (e.g., Southern Africa ~30.14% share of region’s capacity installed via CDM), signaling strong CDM impact in specific African subregions.
 
 ### Sectors Performance
-Investment concentration: Most CDM investment flows into renewable energy generation broadly, with significant funding also to biomass and coal-mine/coal-methane projects — these have delivered large emission reductions over early years. (PDF visualization and text confirm this sector ranking.) 
+![Sector Performance](https://github.com/trinitarn/CDM-Project-Descriptive-Analysis/blob/main/Screenshot%20Sector.png)
+From the scree plot, we can see that sectors generally have the same level of investment and installed capacity. However, afforestation have highest installed capacity relative to its capital investment which means this sector is kinda effective.
 
-Emission reduction durability: Emission reductions are strongest in years 1–2 after project start and tend to slow by year 3 for the top 4 sectors — suggesting either baseline improvements or operational/monitoring drop-off. 
+Meanwhile, total CER is not always positively correlated with installed capacity, which means in some sectors like Afforestation, the Installed Capacity is not used effectively since it does not increase the amount of CERs. So there is a lot of potential emission which can be reduced but somehow it’s not effective, so it stayed merely as potential.
 
-### 📈 Financial & Project Effectiveness
-Projects with higher IRR (10%+) tend to cluster in middle-income regions, suggesting cost-effective impact.
-
-Total capital investment varies significantly, with hydro and wind projects showing strong returns per dollar invested.
-
-LDCs often show lower IRR but high additional revenue potential, justifying grant-based interventions.
-
-### 📅 Crediting Period and Issuance Gap
-Many projects are delayed in issuance despite being registered — particularly in CP2 and CP3, implying bureaucratic or monitoring delays.
-
-### 💰 O&M Costs and Revenue Potential
-Projects with low O&M (< $1M/year) and high CERs issued (e.g., landfill gas recovery) are among the most efficient.
-
-Programs of Activities (PoAs) offer scaling potential through replicable micro-projects across developing countries.
+The sectors usually stop producing CERs in the next year, so this CDM project should increase their long-term feasibility goals. However, there are sectors which shows the CERs amount in the next year which are Hydro, Wind, Coal, and HFCs. 
 
 ### China's Condition
-China’s registration time: average 66 days (reported average) — indicating relatively efficient registration but with room to reduce bureaucratic friction for weaker-capacity countries.
+![China's Condition](https://github.com/trinitarn/CDM-Project-Descriptive-Analysis/blob/main/Screenshot%20China.png)
+China’s CDM number is very big compared to other country, and the second one is Indonesia. 
 
-Additionality concerns for mature techs: Wind and hydro in China are often near profitability thresholds, complicating additionality proofs; this lowers the marginal role of CDM revenue for those technologies. Policy incentives (feed-in tariffs, tax breaks) also reduce additionality reliance on CDM. 
+In China, the sectors which relatively have high Installed Capacity relative to its Capital Investment are afforestation and cement sectors, so these sectors are effective.
 
-Relative importance by market depth: CDM matters more where domestic finance is scarce (smaller markets); in China, developed domestic green finance limits CDM’s incremental role.
+China’s registration time: average 66 days (reported average) when the total participative states average is 100 days — indicating relatively efficient registration but with room to reduce bureaucratic friction for weaker-capacity countries.
 
+China has also a lot of investment on Wind and Hydro which means it is a good sign that most sectors that China’s CDM take parts in are impacting the emission reduction in a long term.
 
 ## 💡 Recommendations
 ### 🌍 Geographic & Administrative Recommendations
