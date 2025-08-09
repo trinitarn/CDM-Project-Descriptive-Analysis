@@ -6,13 +6,10 @@ This project analyzes Clean Development Mechanism (CDM) data — covering over 8
 ## 🧭 Project Overview
 This analysis aims to:
 
-Visualize project distribution and Certified Emission Reductions (CERs) across countries.
-
-Understand the financial characteristics of different CDM project types.
-
-Segment countries based on IRR (Internal Rate of Return), capital investment, and issuance performance.
-
-Identify which projects are most effective and scalable in reducing emissions, especially in Least Developed Countries (LDCs).
+1. Visualize project distribution and Certified Emission Reductions (CERs) across countries.
+2. Understand the financial characteristics of different CDM project types.
+3. Segment countries based on capital investment and issuance performance.
+4. Identify which projects are most effective and scalable in reducing emissions, especially in Least Developed Countries (LDCs).
 
 ## 🗂️ Dataset Structure (Source: UNFCCC)
 CDM Activities: Main table containing registration details, crediting periods, methodologies, financials (investment, IRR), and CER projections.
@@ -28,9 +25,7 @@ Country Codes: Reference for ISO2 and country names.
 ## 📊 Power BI Dashboard Insights
 ### 🌍 Geographic & Temporal Trends
 ![State Performance](https://github.com/trinitarn/CDM-Project-Descriptive-Analysis/blob/main/Screenshot%20State.png)
-China dominates CDM capacity in absolute terms. China’s total renewable capacity (1,453,701 MW) accounts for the largest share of CDM-related capacity and represents 171,378.80 MW installed through CDM projects (11.79% share of China’s total capacity). 
-
-Asia (without China): total 389,559 MW with 81,758.21 MW CDM-installed (20.99% share) — much higher relative contribution than China itself. 
+Asia: total 389,559 MW with 81,758.21 MW CDM-installed (20.99% share) — much higher relative contribution than China itself. 
 
 Africa shows notably strong relative shares in some subregions (e.g., Southern Africa ~30.14% share of region’s capacity installed via CDM), signaling strong CDM impact in specific African subregions.
 
@@ -44,7 +39,7 @@ The sectors usually stop producing CERs in the next year, so this CDM project sh
 
 ### China's Condition
 ![China's Condition](https://github.com/trinitarn/CDM-Project-Descriptive-Analysis/blob/main/Screenshot%20China.png)
-China’s CDM number is very big compared to other country, and the second one is Indonesia. 
+China’s CDM number is very big compared to other country, and the second one is Indonesia. China dominates CDM capacity in absolute terms. China’s total renewable capacity (1,453,701 MW) accounts for the largest share of CDM-related capacity and represents 171,378.80 MW installed through CDM projects (11.79% share of China’s total capacity).
 
 In China, the sectors which relatively have high Installed Capacity relative to its Capital Investment are afforestation and cement sectors, so these sectors are effective.
 
@@ -56,67 +51,35 @@ China has also a lot of investment on Wind and Hydro which means it is a good si
 ### 🌍 Geographic & Administrative Recommendations
 1. Streamline Administrative Processes
 Observation: China's average CDM registration time is 66 days, compared to the global average of 100 days.
-
 Recommendation: Other countries should analyze and adopt China's efficient administrative procedures to reduce bureaucratic delays. This can involve:
-
-Implementing digital platforms for application processing.
-
-Establishing clear guidelines and timelines for each stage of the registration process.
-
-Training staff to handle applications more efficiently.
+1. Implementing digital platforms for application processing.
+2. Establishing clear guidelines and timelines for each stage of the registration process.
+3. Training staff to handle applications more efficiently.
 
 2. Targeted Regional Strategies
 Observation: Asia (excluding China) and certain African subregions have high relative CDM contributions.
-
 Recommendation: Focus on these regions by:
-
-Providing technical and financial support to scale up successful CDM projects.
-
-Encouraging knowledge sharing between countries with high CDM success rates and those looking to improve.
+1. Providing technical and financial support to scale up successful CDM projects.
+2. Encouraging knowledge sharing between countries with high CDM success rates and those looking to improve.
 
 ### ⚙️ Sectoral Recommendations
 3. Invest in High-Impact, Low-Cost Sectors
 Observation: Sectors like afforestation and cement in China show high installed capacity relative to capital investment.
-
-Recommendation: Prioritize investments in sectors that offer significant emission reductions at lower costs by:
-
-Conducting cost-benefit analyses to identify such sectors in different countries.
-
-Allocating funding and resources accordingly.
+Recommendation: Prioritize investments in sectors that offer significant emission reductions at lower cost.
 
 4. Enhance Emission Reduction Effectiveness
 Observation: High installed capacity doesn't always correlate with high Certified Emission Reductions (CERs), especially in afforestation.
+Recommendation: Improve the efficiency of sectors with untapped potential by implementing better monitoring and evaluation systems.
 
-Recommendation: Improve the efficiency of sectors with untapped potential by:
-
-Implementing better monitoring and evaluation systems.
-
-Providing training and resources to optimize operations and maintenance.
-
-5. Promote Long-Term CER Generation
+6. Promote Long-Term CER Generation
 Observation: Sectors like hydro, wind, coal, and HFCs continue to produce CERs beyond the initial year.
-
-Recommendation: Encourage projects in these sectors by:
-
-Offering long-term incentives and support.
-
-Facilitating access to financing for sustainable projects.
+Recommendation: Encourage projects in these sectors.
 
 ### 📈 Strategic Recommendations
 6. Develop Sector-Specific Strategies
 Observation: Different sectors have varying efficiencies and potentials.
-
-Recommendation: Tailor strategies to each sector's characteristics by:
-
-Setting specific targets and benchmarks.
-
-Designing policies that address sector-specific challenges and opportunities.
+Recommendation: Tailor strategies to each sector's characteristics.
 
 7. Foster International Collaboration
 Observation: Sharing best practices can lead to overall improvements.
-
-Recommendation: Encourage collaboration between countries by:
-
-Organizing international workshops and conferences.
-
-Creating platforms for knowledge exchange and joint ventures.
+Recommendation: Encourage collaboration between countries.
