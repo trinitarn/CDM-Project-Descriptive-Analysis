@@ -52,15 +52,15 @@ China has also a lot of investment on Wind and Hydro which means it is a good si
 1. Streamline Administrative Processes
 Observation: China's average CDM registration time is 66 days, compared to the global average of 100 days.
 Recommendation: Other countries should analyze and adopt China's efficient administrative procedures to reduce bureaucratic delays. This can involve:
-1. Implementing digital platforms for application processing.
-2. Establishing clear guidelines and timelines for each stage of the registration process.
-3. Training staff to handle applications more efficiently.
+a. Implementing digital platforms for application processing.
+b. Establishing clear guidelines and timelines for each stage of the registration process.
+c. Training staff to handle applications more efficiently.
 
 2. Targeted Regional Strategies
 Observation: Asia (excluding China) and certain African subregions have high relative CDM contributions.
 Recommendation: Focus on these regions by:
-1. Providing technical and financial support to scale up successful CDM projects.
-2. Encouraging knowledge sharing between countries with high CDM success rates and those looking to improve.
+   a. Providing technical and financial support to scale up successful CDM projects.
+   b. Encouraging knowledge sharing between countries with high CDM success rates and those looking to improve.
 
 ### ⚙️ Sectoral Recommendations
 3. Invest in High-Impact, Low-Cost Sectors
@@ -71,7 +71,7 @@ Recommendation: Prioritize investments in sectors that offer significant emissio
 Observation: High installed capacity doesn't always correlate with high Certified Emission Reductions (CERs), especially in afforestation.
 Recommendation: Improve the efficiency of sectors with untapped potential by implementing better monitoring and evaluation systems.
 
-6. Promote Long-Term CER Generation
+5. Promote Long-Term CER Generation
 Observation: Sectors like hydro, wind, coal, and HFCs continue to produce CERs beyond the initial year.
 Recommendation: Encourage projects in these sectors.
 
